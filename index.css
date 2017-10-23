@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.col-md-1{
+    background: paleturquoise;
+    border: 1px solid palevioletred;
+    box-sizing: border-box;
+}
+.col-md-4{
+    background: red;
+    border: 1px green;
+    box-sizing: border-box;
+}
+.col-md-6{
+    background: plum;
+    border: 1px solid teal;
+    box-sizing: border-box;
+}
+.col-md-8{
+    background:olivedrab;
+    border: 1px solid #999;
+    box-sizing: border-box;
+}
